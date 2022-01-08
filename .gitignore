@@ -1,1 +1,10 @@
-Wechat\ Files
+# ignore everything
+/*
+/*/
+
+# ... but these:
+!/appws/
+!/mdws/
+!/officews/
+!/texws/
+!/.gitignore
